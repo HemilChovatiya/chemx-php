@@ -1,4 +1,4 @@
 <?php
   include('function_inc.php');
-  redirect('/project/pro/index.php');
+  redirect('chemx-php/project/pro/index.php');
 ?>
